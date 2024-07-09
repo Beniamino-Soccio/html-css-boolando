@@ -1,0 +1,17 @@
+/* css rese t*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Generics */
+body{
+    font-family: sans-serif;
+}
+
+/* utils */
+.container{
+    max-width: 1200;
+    margin: 0 auto;
+}
