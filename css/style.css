@@ -8,10 +8,34 @@
 /* Generics */
 body{
     font-family: sans-serif;
+    padding-top: 110px;
+}
+
+header{
+    height: 100px;
+    background-color: #FF6900;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    box-shadow: 0 0 15px #666;
 }
 
 /* utils */
+
 .container{
-    max-width: 1200;
+    max-width: 1400px;
     margin: 0 auto;
+}
+
+.navbar{
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+
+.logo{
+    height: 50px;
 }
