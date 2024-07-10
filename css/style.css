@@ -132,5 +132,9 @@ footer{
     display: none;
 }
 
+.card-text{
+    margin-top: 5px;
+}
+
 
 
